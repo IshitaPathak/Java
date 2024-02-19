@@ -11,7 +11,7 @@ public class Main{
            int a=234_343_342;
            System.out.println(a);
 
-           input.next
+           
      }
 }
 
