@@ -1,4 +1,5 @@
-public class Main {
+package opp1;
+public class Main1 {
     public static void main(String[] args){
         // store 5 roll no
         // int[] numbers = new int[5];
