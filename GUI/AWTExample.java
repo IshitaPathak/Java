@@ -1,8 +1,6 @@
+package GUI;
 import java.awt.*;
 import java.awt.event.*;
-
-import javax.swing.Action;
-
 
 public class AWTExample extends Frame{
 
