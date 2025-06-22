@@ -1,7 +1,7 @@
 package GUI;
 import java.awt.*;
 import java.awt.event.*;
-// testing docofy 
+// testing docify
 public class AWTExample extends Frame{
 
     public AWTExample(){
