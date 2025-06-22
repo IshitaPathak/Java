@@ -1,7 +1,7 @@
 package GUI;
 import java.awt.*;
 import java.awt.event.*;
-// testing docify
+// testing tweeti 
 public class AWTExample extends Frame{
 
     public AWTExample(){
