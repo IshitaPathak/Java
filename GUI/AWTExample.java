@@ -9,7 +9,7 @@ public class AWTExample extends Frame{
        setSize(400, 200);
        setLayout(new FlowLayout());
        setVisible(true);
-
+// testing tweeti 
     //    create controls
     Button button = new Button("Click me");
     TextField textField= new TextField(23);
