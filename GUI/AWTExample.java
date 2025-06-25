@@ -9,7 +9,8 @@ public class AWTExample extends Frame{
        setSize(400, 200);
        setLayout(new FlowLayout());
        setVisible(true);
-// testing tweeti 
+
+// testing tweeti
     //    create controls
     Button button = new Button("Click me");
     TextField textField= new TextField(23);
@@ -30,7 +31,7 @@ public class AWTExample extends Frame{
     add(radio1);
     add(radio2);
     
-   
+//    testing tweeti
 // event handling for buttons
 button.addActionListener(new ActionListener(){
     @Override
