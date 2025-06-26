@@ -41,6 +41,7 @@ button.addActionListener(new ActionListener(){
 });
 
 // testing tweeti
+// added multithreading
 
 // event handling for textfields
 textField.addActionListener(new ActionListener() {
