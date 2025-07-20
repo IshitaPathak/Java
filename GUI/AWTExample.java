@@ -40,7 +40,7 @@ button.addActionListener(new ActionListener(){
     }
 });
 
-// testing tweeti
+// testing tweetio
 // added multithreadingg for testing tweetiii
 
 // event handling for textfields
